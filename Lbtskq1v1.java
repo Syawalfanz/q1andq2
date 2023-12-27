@@ -58,7 +58,7 @@ class Deposit extends Bank {
 }
 
 // Main class of the program
-public class Lbtsqk1v1 {
+public class Lbtskq1v1 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
 
