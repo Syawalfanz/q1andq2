@@ -31,7 +31,7 @@ class StudGrade implements Student {
     }
 }
 
-public class Main_4 {
+public class Lbq2v1 {
     public static void main(String[] args) {
         StudGrade grade = new StudGrade();
         try {
