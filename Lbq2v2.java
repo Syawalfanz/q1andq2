@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pointer {
+public class Lbq2v2 {
 
     public static void main(String[] args) {
 
